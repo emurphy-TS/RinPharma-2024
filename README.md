@@ -3,9 +3,9 @@ This reposityory contains the slides and abstract for my talk: "Code that Cures:
 
 #Helpful Links
 Regulatory Compliance:
-R: Regulatory Compliance and Validation Issues A Guidance Document for the Use of R in Regulated Clinical Trial Environments: https://www.r-project.org/doc/R-FDA.pdf
-R Validation Hub: https://www.pharmar.org/regulations/
-{renv} https://rstudio.github.io/renv/articles/renv.html
+* R: Regulatory Compliance and Validation Issues A Guidance Document for the Use of R in Regulated Clinical Trial Environments: https://www.r-project.org/doc/R-FDA.pdf
+* R Validation Hub: https://www.pharmar.org/regulations/
+* {renv} https://rstudio.github.io/renv/articles/renv.html
 
 Approving Use of External Packages:
 A Risk-Based Approach for Assessing R Package Accuracy Within a Validated Infrastructure: https://www.pharmar.org/white-paper/
