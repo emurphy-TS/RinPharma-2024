@@ -1,2 +1,2 @@
 # RinPharma-2024
-R/Pharma Virtual Conference Presentation: Validating GxP-Compliant R Shiny Apps for Clinical Decisions
+This reposityory contains the slides and abstract for my talk: "Code that Cures: Validating GxP-Compliant R Shiny Apps for Clinical Decisions" at the R/Pharma virtual conference on Oct 29, 2024
