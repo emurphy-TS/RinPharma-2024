@@ -1,6 +1,12 @@
 # RinPharma-2024
 This reposityory contains the slides and abstract for my talk: "Code that Cures: Validating GxP-Compliant R Shiny Apps for Clinical Decisions" at the R/Pharma virtual conference on Oct 29, 2024
 
+# Abstract
+Code that Cures: Validating GxP-Compliant R Shiny Apps for Clinical Decisions
+
+GxP-relevant R Shiny application validation ensures compliance and data integrity in regulated industries. This complex process relies on three key pillars: people, technology, and processes. A cross-functional team is crucial, comprising an R champion to drive initiatives, technical experts to implement infrastructure, and QA partners to guide regulatory adherence. Essential technologies include validated infrastructure and packages, forming the foundation for reliable application development. Processes should align with GAMP 5 guidelines and incorporate risk-based Software Development Life Cycle (SDLC) principles, such as documented user requirements and robust code testing. This overview serves as a starting point for those interested in building validated R Shiny applications, highlighting the importance of collaboration, risk-based approaches, and continuous learning. By following these guidelines and leveraging available resources, organizations can successfully implement and maintain validated R Shiny applications in GxP environments, ensuring regulatory compliance and operational efficiency.
+
+
 # Helpful Links
 ## Regulatory Compliance:
 * R: Regulatory Compliance and Validation Issues A Guidance Document for the Use of R in Regulated Clinical Trial Environments: https://www.r-project.org/doc/R-FDA.pdf
